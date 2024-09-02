@@ -1,3 +1,8 @@
+/*
+ * Taller Agenda - Programación 1 [03N - 20242]
+ * Estudiante: Alejandro Hurtado Guerrero
+ */
+
 public class Agenda{
     public static void main(String[] args){
         Grupo grupo = new Grupo("Amiguitos", Categoria.AMIGOS);
